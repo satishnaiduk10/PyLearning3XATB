@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d5253ba-ac59-49cf-8dbc-9985dfda92c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyLearning3XATB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex03042024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex03042024/Lab002.py" afterDir="false" />
+    <list default="true" id="9d5253ba-ac59-49cf-8dbc-9985dfda92c1" name="Changes" comment="adding file 003">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex04062024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex04062024/Lab003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "satishnaiduk10"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;satishnaiduk10&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/satishnaiduk10/PyLearning3XATB.git",
-    "accountId": "59cab4cd-f02d-404b-aaf6-30ffc1bb25e7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/satishnaiduk10/PyLearning3XATB.git&quot;,
+    &quot;accountId&quot;: &quot;59cab4cd-f02d-404b-aaf6-30ffc1bb25e7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2hQPEF7lSnMaCDBvcLpfIVSN0Ef" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,7 +50,8 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -75,6 +70,36 @@
       <option name="presentableId" value="Default" />
       <updated>1717523215983</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding file 002">
+      <option name="closed" value="true" />
+      <created>1717525565545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717525565545</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding file 003">
+      <option name="closed" value="true" />
+      <created>1717525989654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717525989654</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding file 003">
+      <option name="closed" value="true" />
+      <created>1717526301552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717526301552</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding file 002" />
+    <MESSAGE value="adding file 003" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding file 003" />
   </component>
 </project>
